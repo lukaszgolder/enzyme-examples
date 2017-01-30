@@ -1,0 +1,9 @@
+[ignore]
+.*/styled-components/src/.*
+
+[include]
+
+[libs]
+flow-typed
+
+[options]
